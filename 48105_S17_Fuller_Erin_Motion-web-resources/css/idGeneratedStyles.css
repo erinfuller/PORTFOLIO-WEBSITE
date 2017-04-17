@@ -1,0 +1,205 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Basic-Graphics-Frame {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+p.Basic-Paragraph {
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.ParaOverride-1 {
+	text-align:center;
+}
+p.ParaOverride-2 {
+	-epub-hyphens:none;
+	margin-bottom:9px;
+	text-align:justify;
+	text-align-last:left;
+}
+p.ParaOverride-3 {
+	-epub-hyphens:none;
+	text-align:justify;
+	text-align-last:left;
+}
+p.ParaOverride-4 {
+	-epub-hyphens:none;
+	text-align:justify;
+	text-align-last:justify;
+}
+p.ParaOverride-5 {
+	-epub-hyphens:none;
+	margin-left:18px;
+	text-align:justify;
+	text-align-last:left;
+}
+span.CharOverride-1 {
+	font-family:"Effra Medium", sans-serif;
+	font-size:18px;
+	font-style:normal;
+	font-weight:500;
+}
+span.CharOverride-2 {
+	font-family:Effra, sans-serif;
+	font-size:15px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-3 {
+	font-family:Effra, sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-weight:normal;
+}
+#_idContainer000, #_idContainer011, #_idContainer018, #_idContainer027, #_idContainer036, #_idContainer046, #_idContainer055 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:1150px;
+}
+#_idContainer003, #_idContainer014, #_idContainer021, #_idContainer030, #_idContainer041, #_idContainer050, #_idContainer058 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:393px;
+}
+#_idContainer005 {
+	display:inline-block;
+	height:655px;
+	width:309px;
+}
+#_idContainer006 {
+	display:inline-block;
+	height:653px;
+	position:relative;
+	width:0px;
+}
+#_idContainer007 {
+	display:inline-block;
+	height:655px;
+	width:395px;
+}
+#_idContainer008, #_idContainer017, #_idContainer026, #_idContainer035, #_idContainer045, #_idContainer053, #_idContainer061 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:391px;
+}
+#_idContainer016 {
+	display:inline-block;
+	height:636px;
+	width:898px;
+}
+#_idContainer022, #_idContainer024, #_idContainer025, #_idContainer031, #_idContainer033, #_idContainer034 {
+	display:inline-block;
+	height:305px;
+	width:564px;
+}
+#_idContainer038 {
+	display:inline-block;
+	height:305px;
+	width:565px;
+}
+#_idContainer039, #_idContainer044 {
+	display:inline-block;
+	height:306px;
+	width:565px;
+}
+#_idContainer042 {
+	display:inline-block;
+	height:304px;
+	width:566px;
+}
+#_idContainer043 {
+	display:inline-block;
+	height:304px;
+	width:563px;
+}
+#_idContainer048 {
+	display:inline-block;
+	height:432px;
+	width:395px;
+}
+#_idContainer052 {
+	display:inline-block;
+	height:713px;
+	width:734px;
+}
+#_idContainer054 {
+	display:inline-block;
+	height:234px;
+	width:155px;
+}
+#_idContainer059 {
+	display:inline-block;
+	height:517px;
+	width:824px;
+}
+#_idContainer062 {
+	display:inline-block;
+	height:106px;
+	width:161px;
+}
+#_idContainer063 {
+	display:inline-block;
+	height:92px;
+	width:161px;
+}
+#_idContainer064 {
+	display:inline-block;
+	height:101px;
+	width:161px;
+}
+#_idContainer065 {
+	display:inline-block;
+	height:82px;
+	width:161px;
+}
+#_idContainer066 {
+	display:inline-block;
+	height:209px;
+	width:161px;
+}
+#_idContainer067 {
+	display:inline-block;
+	height:97px;
+	width:161px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
